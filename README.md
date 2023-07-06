@@ -1,4 +1,4 @@
-* Данные -- ![новости Ленты](https://www.kaggle.com/datasets/yutkin/corpus-of-russian-news-articles-from-lenta)
+* Данные -- [новости Ленты](https://www.kaggle.com/datasets/yutkin/corpus-of-russian-news-articles-from-lenta)
 * SnowBall стеммер
 * Score основывается на cosine similarity Tdidf запроса и заголовка статьи
 * Инвертированный индекс основан на алгоритме с указателями для поиска пересечений
